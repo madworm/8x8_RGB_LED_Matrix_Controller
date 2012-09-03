@@ -9,5 +9,4 @@
 (define-layer! 2 (cons 'filename "8x8_rgb_matrix-V3_04-Copper.pho")(cons 'visible #t)(cons 'color #(49601 0 57568)))
 (define-layer! 1 (cons 'filename "8x8_rgb_matrix-V3_04-Component.pho")(cons 'visible #t)(cons 'color #(65535 32639 29555)))
 (define-layer! 0 (cons 'filename "8x8_rgb_matrix-V3_04.drl")(cons 'visible #t)(cons 'color #(29555 29555 57054))(cons 'attribs (list (list 'autodetect 'Boolean 1) (list 'zero_supression 'Enum 1) (list 'units 'Enum 0) (list 'digits 'Integer 4))))
-(define-layer! -1 (cons 'filename "/black_hole/home/robert/Arduino/KiCAD/Projects/8x8_RGB_MATRIX-V3_04/gerber_files")(cons 'visible #f)(cons 'color #(0 0 0)))
 (set-render-type! 3)
