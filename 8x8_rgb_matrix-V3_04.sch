@@ -1,9 +1,8 @@
-EESchema Schematic File Version 2  date Wed 24 Nov 2010 02:26:46 AM CET
-LIBS:power
-LIBS:ref-packages
+EESchema Schematic File Version 2  date Wed 23 Jan 2013 10:49:48 PM CET
 LIBS:my_parts
 LIBS:atmega8_168_328_DIP
 LIBS:atmega8_168_328_TQFP
+LIBS:power
 LIBS:device
 LIBS:conn
 LIBS:linear
@@ -30,9 +29,11 @@ LIBS:cypress
 LIBS:siliconi
 LIBS:contrib
 LIBS:valves
-EELAYER 24  0
+LIBS:8x8_rgb_matrix-V3_04-cache
+EELAYER 27 0
 EELAYER END
-$Descr A3 16535 11700
+$Descr A3 16535 11693
+encoding utf-8
 Sheet 1 1
 Title "8x8 RGB LED matrix controller"
 Date "24 nov 2010"
