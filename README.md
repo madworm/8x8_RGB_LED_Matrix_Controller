@@ -2,7 +2,7 @@
 8x8_RGB_LED_Matrix_Controller
 =============================
 
-LAYOUT FILES: 8x8-RGB-LED-Matrix controller using 4x 74HC595 shift registers. CPU: ATmega168/328. Arduino 'compatible'. Runs with code from 'V3_x_boards_test' repo. KICAD and Gerber files.
+LAYOUT FILES: 8x8-RGB-LED-Matrix controller using 4x 74HC595 shift registers. CPU: ATmega168/328. Arduino 'compatible'. Runs with code from [V3_x_boards_test](https://github.com/madworm/V3_x_boards_test) repo. KICAD and Gerber files.
 
 
 ---
